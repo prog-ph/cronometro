@@ -1,3 +1,3 @@
 # cronometro
 
-<h1>Esse é um projeto Cronometro />
+<h1>Esse é um projeto Cronometro
